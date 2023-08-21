@@ -1,2 +1,3 @@
-# github-course
-## Elzero school
+# Git-Course
+ Elzero school
+## new notes
